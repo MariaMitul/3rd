@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Mashulea");
         System.out.println("inimioara");
         System.out.println("puisori");
+        System.out.println("mi-i somn");
     }
 }
